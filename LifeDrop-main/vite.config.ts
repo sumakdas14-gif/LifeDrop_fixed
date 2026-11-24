@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/LifeDrop/',
+    base: '/LifeDrop_fixed/',
     plugins: [
       react(),
       tailwindcss(),
